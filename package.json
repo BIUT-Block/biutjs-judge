@@ -1,0 +1,25 @@
+{
+  "name": "secjs-judge",
+  "version": "1.0.0",
+  "description": "using for judge and verify",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/MongoX-SEC/secjs-judge.git"
+  },
+  "keywords": [
+    "sec",
+    "secblockchain",
+    "blockchain",
+    "sec-judge"
+  ],
+  "author": "ppg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/MongoX-SEC/secjs-judge/issues"
+  },
+  "homepage": "https://gitlab.com/MongoX-SEC/secjs-judge#README"
+}
